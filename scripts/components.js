@@ -15,6 +15,13 @@ const projects = {
 		img: 'eveneuum',
 		info: 'A web application that is a financial assistant with a small set of functions and a visual presentation',
 	},
+	weatherWidget: {
+		name: 'Weather Widget',
+		link: 'https://hlebread.github.io/WeatherWidget/',
+		gitHub: 'https://github.com/Hlebread/WeatherWidget',
+		img: 'weatherWidget',
+		info: 'Simple weather widget for your site with geolocation and forecast',
+	},
 };
 
 const projectContainer = {
