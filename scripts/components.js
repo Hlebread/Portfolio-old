@@ -22,6 +22,20 @@ const projects = {
 		img: 'weatherWidget',
 		info: 'Simple weather widget for your site with geolocation and forecast',
 	},
+	noteEditor: {
+		name: 'Note Editor',
+		link: 'https://hlebread-notes-editor.netlify.app/',
+		gitHub: 'https://github.com/Hlebread/NoteEditor',
+		img: 'NoteEditor',
+		info: 'Note editor based on React.js and Firebase data storage',
+	},
+	tagsModule: {
+		name: 'Tags module',
+		link: 'https://hlebread.github.io/TagsEditor/',
+		gitHub: 'https://github.com/Hlebread/TagsEditor',
+		img: 'TagsModule',
+		info: 'Component for adding tags via input with Readonly Mode',
+	},
 };
 
 const projectContainer = {
